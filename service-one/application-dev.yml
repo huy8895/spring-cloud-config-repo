@@ -2,3 +2,6 @@ spring:
   application:
     name: service-one
     environment: dev
+    
+application:
+  user: huy8895-dev
