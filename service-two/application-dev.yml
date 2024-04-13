@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: service-two
+    environment: dev
+    
+application:
+  user: huy8895-dev-service-two
