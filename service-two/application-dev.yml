@@ -4,4 +4,4 @@ spring:
     environment: dev
     
 application:
-  user: huy8895-dev-service-two
+  user: huy8895-dev-service-two-update
